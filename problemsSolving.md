@@ -20,3 +20,10 @@ Solving programming problems is important for several reasons:
 4. Write the manual steps as comments or pseudo-code.
 5. Replace the comments or pseudo-code with real code.
 6. Optimize the real code.
+
+## Discussion Questions answers
+1. Analyzing the problem, then understanding it well, dividing it into parts, and then solving it in the best way, because understanding the problem is half the solution.
+2. My steps to solving problims
+a. I try to understand it well and think of a solution
+b. If I don't find a solution, I search for it on Google or good programming sources
+c. I am trying to inquire from my colleagues with the same specialization and those with experience
