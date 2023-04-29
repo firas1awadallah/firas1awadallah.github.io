@@ -24,6 +24,6 @@ Solving programming problems is important for several reasons:
 ## Discussion Questions answers
 1. Analyzing the problem, then understanding it well, dividing it into parts, and then solving it in the best way, because understanding the problem is half the solution.
 2. My steps to solving problims
-*I try to understand it well and think of a solution
-*If I don't find a solution, I search for it on Google or good programming sources
-*I am trying to inquire from my colleagues with the same specialization and those with experience
+* I try to understand it well and think of a solution
+* If I don't find a solution, I search for it on Google or good programming sources
+* I am trying to inquire from my colleagues with the same specialization and those with experience
