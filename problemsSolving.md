@@ -1,4 +1,4 @@
-#ProblemsSolving
+# ProblemsSolving
 
 Solving programming problems is important for several reasons:
 
@@ -11,8 +11,8 @@ Solving programming problems is important for several reasons:
 4. Builds confidence: As you solve more programming problems, you gain confidence in your ability to solve complex problems. This confidence can help you tackle larger programming projects with ease.
 
 5. Helps in interviews: Many job interviews for programming positions involve solving programming problems. Practicing solving problems can help you prepare for these interviews and increase your chances of getting hired.
-##Simple set of steps for solving 
 
+## Simple set of steps for solving 
 
 1. Read the problem completely twice.
 2. Solve the problem manually with 3 sets of sample data.
