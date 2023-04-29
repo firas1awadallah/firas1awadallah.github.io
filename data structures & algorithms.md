@@ -1,14 +1,15 @@
+# Data Structures and Algorithm
 data structures and algorithms is important in programming because 
 
-Efficiency: Data structures and algorithms help to optimize program performance
+1. Efficiency: Data structures and algorithms help to optimize program performance
 
-Reusability: Data structures and algorithms are reusable components that can be applied to many different programming problems.
+2. Reusability: Data structures and algorithms are reusable components that can be applied to many different programming problems.
 
-Scalability: As programs grow in size and complexity, data structures and algorithms become even more important
+3. Scalability: As programs grow in size and complexity, data structures and algorithms become even more important
 
-Maintainability: Well-designed data structures and algorithms make it easier to maintain and update code
+4. Maintainability: Well-designed data structures and algorithms make it easier to maintain and update code
 
-### Type of data structures
+## Type of data structures
 
 1. Arrays
 
