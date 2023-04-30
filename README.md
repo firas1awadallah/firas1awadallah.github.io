@@ -15,6 +15,8 @@ i created  this repo to i can keep track of my observations and questions from t
 + *Career Readiness*
 Links:
 
-* [data structures and algorithms](data structures & algorithms.md)
+* [DataStructures&algorithms](data structures & algorithms.md)
 
-* [problems Solving](problemsSolving.md)
+* [Engineering Readings](problemsSolving.md)
+
+* [Introduction to SQL](problemsSolving.md)
