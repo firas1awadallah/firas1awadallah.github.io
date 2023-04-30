@@ -9,6 +9,9 @@ data structures and algorithms is important in programming because 
 
 4. Maintainability: Well-designed data structures and algorithms make it easier to maintain and update code
 
+## Bid O
+Big O  is a way of expressing the complexity of an algorithm or function, in terms of the input size. It describes the upper bound of the growth rate of a function, as the input size approaches infinity
+
 ## Type of data structures
 
 1. Arrays
@@ -36,3 +39,7 @@ A tree is a hierarchical structure where data is organized hierarchically and 
 1. One important thing to consider when choosing a data structure to solve a problem is the time and space complexity of the available options. Different data structures have different strengths and weaknesses in terms of their performance characteristics for different operations, such as searching, inserting, deleting, and accessing elements.
 
 2. To avoid an infinite recursive call stack, you need to make sure that your recursive function has a proper termination condition. This means that the function should stop calling itself when it reaches a certain point or condition
+
+## Things I want to know more about
+* Big O 
+* Algorithm
