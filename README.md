@@ -26,5 +26,8 @@ i created  this repo to i can keep track of my observations and questions from t
 
 * [The Growth Mindset](The Growth Mindset.md)
 
+* [Class01](Class01.md)
+
+
 
 
