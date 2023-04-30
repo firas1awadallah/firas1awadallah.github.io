@@ -21,3 +21,6 @@ i created  this repo to i can keep track of my observations and questions from t
 * [Engineering Readings](problemsSolving.md)
 
 * [Introduction to SQL](Introduction to SQL.md)
+
+* [Practice in the Terminal](Practice in the Terminal.md)
+
