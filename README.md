@@ -13,10 +13,11 @@ i created  this repo to i can keep track of my observations and questions from t
 + *Life Skilles*
 + *Leadership*
 + *Career Readiness*
-Links:
+
+## Links:
 
 * [DataStructures&algorithms](data structures & algorithms.md)
 
 * [Engineering Readings](problemsSolving.md)
 
-* [Introduction to SQL](problemsSolving.md)
+* [Introduction to SQL](Introduction to SQL.md)
