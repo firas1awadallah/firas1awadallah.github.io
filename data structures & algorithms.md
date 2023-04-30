@@ -8,8 +8,11 @@ data structures and algorithms is important in programming because 
 3. Scalability: As programs grow in size and complexity, data structures and algorithms become even more important
 
 4. Maintainability: Well-designed data structures and algorithms make it easier to maintain and update code
+## Algorithm :
+An algorithm is a set of instructions or a step-by-step procedure for solving a problem or performing a specific task.
+Algorithms are used in a wide range of applications, from software development and computer science to mathematics, engineering, and other fields
 
-## Bid O
+## Big O: 
 Big O  is a way of expressing the complexity of an algorithm or function, in terms of the input size. It describes the upper bound of the growth rate of a function, as the input size approaches infinity
 
 ## Type of data structures
