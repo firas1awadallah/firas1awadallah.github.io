@@ -3,10 +3,9 @@
 
 i created  this repo to i can keep track of my observations and questions from the reading assignments throughout my course
 ## Course:
-## 1. Code 102 - Intro to Software Development
-## 2. Code 201 - Foundations of Software Development
-## 3. Code 301 - Intermediate Software Development
-## 4. Code 401 - Advanced Software Development
+
+##  Code 401 - Advanced Software Development
+
 ## other courses 
 + *English 101*
 + *English 102*
@@ -14,7 +13,7 @@ i created  this repo to i can keep track of my observations and questions from t
 + *Leadership*
 + *Career Readiness*
 
-## Links:
+## Prework Links:
 
 * [DataStructures&algorithms](data structures & algorithms.md)
 
@@ -26,7 +25,10 @@ i created  this repo to i can keep track of my observations and questions from t
 
 * [The Growth Mindset](The Growth Mindset.md)
 
-* [Class01](Class01.md)
+
+|   **Class**   |   **Links**            |
+| ------------- | ---------------------- |
+| Class01       | [Class01](Class01.md)  |
 
 
 
