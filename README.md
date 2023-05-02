@@ -8,8 +8,8 @@ i created  this repo to i can keep track of my observations and questions from t
 
 |   **Class**   |   **Links**            |
 | ------------- | ---------------------- |
-| Class01       | [Class01](Class01.md)  |
-
+| Names and Values    | [Class01](Class01.md)  |
+| Testing and Modules | [Class02](Testing and Modules.md)  |
 
 ## other courses 
 + *English 101*
