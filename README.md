@@ -6,6 +6,11 @@ i created  this repo to i can keep track of my observations and questions from t
 
 ##  Code 401 - Advanced Software Development
 
+|   **Class**   |   **Links**            |
+| ------------- | ---------------------- |
+| Class01       | [Class01](Class01.md)  |
+
+
 ## other courses 
 + *English 101*
 + *English 102*
@@ -26,9 +31,6 @@ i created  this repo to i can keep track of my observations and questions from t
 * [The Growth Mindset](The Growth Mindset.md)
 
 
-|   **Class**   |   **Links**            |
-| ------------- | ---------------------- |
-| Class01       | [Class01](Class01.md)  |
 
 
 
