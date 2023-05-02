@@ -9,7 +9,7 @@ i created  this repo to i can keep track of my observations and questions from t
 |   **Class**   |   **Links**            |
 | ------------- | ---------------------- |
 | Names and Values    | [Class01](Class01.md)  |
-| Testing and Modules | [Class02](Testing and Modules.md)  |
+| Testing and Modules | [Testing and Modules](Testing and Modules.md)  |
 
 ## other courses 
 + *English 101*
