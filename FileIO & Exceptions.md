@@ -80,13 +80,14 @@ In Python, exception handling is a way of dealing with errors or exceptional sit
 * use try, except, and finally :
 
 try:
-    x = 10 / 0
-except ZeroDivisionError:
-    print("Cannot divide by zero")
+    x = 1 < 0
+except ZeroLessOneError:
+    print("Cannot One smallest zero")
 finally:
-    print("This will always execute")
+    print("Zero smallest One")
 The output of this code will be:
-Cannot divide by zero
+Cannot One smallest zero
+Zero smallest One
 
 ## Things I want to know more about
 Files and exceptions and how exceptions are used to handle errors and unexpected situations that may arise during the execution of a program.
