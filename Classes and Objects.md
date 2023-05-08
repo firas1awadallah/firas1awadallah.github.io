@@ -33,7 +33,10 @@ The services, state, or other operating environments set up by fixtures are acce
 ## Reading Questions 
 * What are the key differences between classes and objects in Python, and how are they used to create and manage instances of a class?
  classes and objects are fundamental concepts in object-oriented programming, and they are used to create and manage instances of a class. Classes define the characteristics and behavior of objects, while objects have their own set of values for the variables defined in the class and can call the methods defined in the class.
- 
+* Explain the concept of recursion and provide an example of how it can be used to solve a problem in Python. What are some best practices to follow when implementing a recursive function?
+recursion is a powerful programming technique that can be used to solve problems by breaking them down into smaller, simpler problems. When implementing a recursive function, it is important to define the base case(s), reduce the problem size, trust the recursion, avoid unnecessary work, and consider the call stack to ensure that the function runs correctly and efficiently.
+* What is the purpose of pytest fixtures and code coverage in testing Python code? Explain how they can be used together to improve the quality and maintainability of a project. 
+ pytest fixtures and code coverage are important tools for testing Python code. They can be used together to improve the quality and maintainability of a project by reducing duplication in tests, setting up a consistent environment for testing, identifying areas that need more testing, and identifying unnecessary or unreachable code.
  ## Things I want to know more about
  1. Classes 
  2. Objects
