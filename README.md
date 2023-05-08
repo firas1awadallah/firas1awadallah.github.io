@@ -11,14 +11,11 @@ i created  this repo to i can keep track of my observations and questions from t
 | Names and Values    | [Class01](Class01.md)  |
 | Testing and Modules | [Testing and Modules](Testing and Modules.md)  |
 | File & Exceptions | [File & Exceptions](FileIO & Exceptions.md)  |
+| Classes and Objects | [Classes and Objects](Classes and Objects.md)  |
 
 
-## other courses 
-+ *English 101*
-+ *English 102*
-+ *Life Skilles*
-+ *Leadership*
-+ *Career Readiness*
+
+
 
 ## Prework Links:
 
