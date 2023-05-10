@@ -8,13 +8,13 @@ i created  this repo to i can keep track of my observations and questions from t
 
 |   **Class**   |   **Links**            |
 | ------------- | ---------------------- |
-| Class01 | [Class01](Class01.md)  |
+| Class01 | [names and values](Class01.md)  |
 | Class02 | [Testing and Modules](Testing and Modules.md)  |
 | Class03 | [File & Exceptions](FileIO & Exceptions.md)  |
 | Class04 | [Classes and Objects](Classes and Objects.md)  |
 | Class05 | [Linked Lists.md](Linked Lists.md)  |
 
-Linked Lists.md
+
 
 
 ## Prework Links:
