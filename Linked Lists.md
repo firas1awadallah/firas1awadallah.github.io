@@ -2,7 +2,7 @@
 ## what is Big O
 Big O’s role in algorithm efficiency is to describe the Worst Case of efficiency an algorithm can have in performing it’s job. It specifically looks at the Running Time and Memory Space , which we often refer to as Space and Time. In order to analyze these limiting factors, we should consider 4 Key Areas for analysis:Input Size,Units of Measurement,Orders of Growth and Best Case, Worst Case, and Average Case.
 
-## ## what is Linked Lists
+##  what is Linked Lists
 A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
 
 * Head is always the first node in a Linked List
