@@ -12,9 +12,8 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class02 | [Testing and Modules](Testing and Modules.md)  |
 | Class03 | [File & Exceptions](FileIO & Exceptions.md)  |
 | Class04 | [Classes and Objects](Classes and Objects.md)  |
-| Class05 | [Linked Lists.md](Linked Lists.md)  |
-
-
+| Class05 | [Linked Lists](Linked Lists.md)  |
+| Class06 | [Ten Thousand Game 1](Ten Thousand Game 1.md)  |
 
 
 ## Prework Links:
