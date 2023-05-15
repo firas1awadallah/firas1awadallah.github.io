@@ -14,6 +14,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class04 | [Classes and Objects](Classes and Objects.md)  |
 | Class05 | [Linked Lists](Linked Lists.md)  |
 | Class06 | [Ten Thousand Game 1](Ten Thousand Game 1.md)  |
+| Class07 | [Python Scope](Python Scope.md)  |
 
 
 ## Prework Links:
