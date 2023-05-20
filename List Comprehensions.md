@@ -1,6 +1,7 @@
 # list comprehensions
 * In Python, list comprehensions are a more compact way of creating lists. 
-
+## Reading Questions
+1. What is the basic syntax of Python list comprehension, and how does it differ from using a for loop to create a list? Provide an example of a list comprehension that squares the elements in a given list of integers.
 * Syntax
 my_new_list = [ expression for item in list ]
 
@@ -35,6 +36,29 @@ Output
 
 [2, 4, 6, 8, 10, 12, 14, 16, 18]
 
+2. What is a decorator in Python?
+
+* In Python, a decorator is a design pattern that allows modifying the behavior of a function, method, or class without directly modifying its source code. It provides a way to wrap or decorate the original function or class with additional functionality. 
+
+3. Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading.
+* Decorators in Python are a way to modify the behavior of a function, method, or class by wrapping them with additional code. 
+
+* Some common use cases for decorators include:
+1. Logging: Adding logging statements before and/or after the execution of a function to track its behavior.
+2. Input validation: Checking the validity or format of function arguments before executing the function.
+3. Caching: Storing and reusing the results of expensive function calls to improve performance.
+4. Authentication: Checking user credentials or permissions before allowing access to a function or class.
+5. Timing: Measuring the execution time of a function to optimize performance.
+
+* Here's an example of a simple decorator function:
+def uppercase_decorator(func):
+    def wrapper():
+        result = func()
+        return result.upper()
+    return wrapper
+@uppercase_decorator
+def greet():
+    return "hello"
 ## Lower/Upper case converter using Python
 
 
