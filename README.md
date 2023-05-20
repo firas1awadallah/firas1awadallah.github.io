@@ -16,6 +16,8 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class06 | [Ten Thousand Game 1](Ten Thousand Game 1.md)  |
 | Class07 | [Python Scope](Python Scope.md)  |
 | Class08 | [Stacks and Queues](Stacks and Queues.md)  |
+| Class08 | [List Comprehensions](List Comprehensions.md)  |
+
 
 ## Prework Links:
 
