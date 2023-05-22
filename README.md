@@ -17,7 +17,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class07 | [Python Scope](Python Scope.md)  |
 | Class08 | [Stacks and Queues](Stacks and Queues.md)  |
 | Class08 | [List Comprehensions](List Comprehensions.md)  |
-
+| Class09 | [Statistics and Probability](Statistics and Probability.md)  |
 
 ## Prework Links:
 
