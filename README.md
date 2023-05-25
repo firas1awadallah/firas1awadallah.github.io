@@ -19,7 +19,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class08 | [List Comprehensions](List Comprehensions.md)  |
 | Class09 | [Statistics and Probability](Statistics and Probability.md)  |
 | Class11 | [Data Analysis](Data Analysis.md)  |
-Data Analysis.md
+
 ## Prework Links:
 
 * [DataStructures&algorithms](data structures & algorithms.md)
