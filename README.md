@@ -20,6 +20,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class09 | [Statistics and Probability](Statistics and Probability.md)  |
 | Class11 | [Data Analysis](Data Analysis.md)  |
 | Class12 | [Pandas](Pandas.md)  |
+| Class13 | [Linear Regressions](Linear Regressions.md)  |
 
 ## Prework Links:
 
