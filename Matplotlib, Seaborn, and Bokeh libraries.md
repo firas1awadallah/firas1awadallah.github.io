@@ -47,3 +47,6 @@ The Seaborn Cheat Sheet serves as a quick reference guide for Python developers 
 * Parameters: The cheat sheet highlights the essential parameters for each function, along with a brief description of their purpose. This enables developers to understand the available customization options and choose the appropriate parameters for their specific visualization requirements.
 
 * Examples: The cheat sheet includes concise code examples for each plot type, demonstrating how to use the functions and parameters to create different types of plots. These examples serve as a starting point for developers and help them understand the syntax and usage of Seaborn functions.
+
+## Things I want to know more about
+Matplotlib, Seaborn, and Bokeh
