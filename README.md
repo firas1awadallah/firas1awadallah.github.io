@@ -21,6 +21,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class11 | [Data Analysis](Data Analysis.md)  |
 | Class12 | [Pandas](Pandas.md)  |
 | Class13 | [Linear Regressions](Linear Regressions.md)  |
+| Class14 | [Matplotlib, Seaborn, Bokeh](Matplotlib, Seaborn, and Bokeh libraries.md)  |
 
 ## Prework Links:
 
