@@ -24,7 +24,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class14 | [Matplotlib, Seaborn, Bokeh](Matplotlib, Seaborn, and Bokeh libraries.md)  |
 | Class15 | [Trees](Trees.md)  |
 | Class16 | [Serverless Functions](Serverless Functions.md)  |
-
+| Class17 | [Web Scraping](Web Scraping.md)  |
 ## Prework Links:
 
 * [DataStructures&algorithms](data structures & algorithms.md)
