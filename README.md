@@ -16,8 +16,8 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class06 | [Ten Thousand Game 1](Ten Thousand Game 1.md)  |
 | Class07 | [Python Scope](Python Scope.md)  |
 | Class08 | [Stacks and Queues](Stacks and Queues.md)  |
-| Class08 | [List Comprehensions](List Comprehensions.md)  |
-| Class09 | [Statistics and Probability](Statistics and Probability.md)  |
+| Class09 | [List Comprehensions](List Comprehensions.md)  |
+| Class10 | [Statistics and Probability](Statistics and Probability.md)  |
 | Class11 | [Data Analysis](Data Analysis.md)  |
 | Class12 | [Pandas](Pandas.md)  |
 | Class13 | [Linear Regressions](Linear Regressions.md)  |
@@ -25,6 +25,9 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class15 | [Trees](Trees.md)  |
 | Class16 | [Serverless Functions](Serverless Functions.md)  |
 | Class17 | [Web Scraping](Web Scraping.md)  |
+| Class26 | [Django](Django.md)  |
+
+
 ## Prework Links:
 
 * [DataStructures&algorithms](data structures & algorithms.md)
