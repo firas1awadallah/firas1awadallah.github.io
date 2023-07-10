@@ -26,7 +26,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class16 | [Serverless Functions](Serverless Functions.md)  |
 | Class17 | [Web Scraping](Web Scraping.md)  |
 | Class26 | [Django](Django.md)  |
-
+| Class27 | [Django Models](Django Models.md)  |
 
 ## Prework Links:
 
