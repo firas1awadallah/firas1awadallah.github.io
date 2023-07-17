@@ -28,6 +28,8 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class26 | [Django](Django.md)  |
 | Class27 | [Django Models](Django Models.md)  |
 | Class28 | [Django CRUD and Forms](Django CRUD and Forms.md)  |
+| Class29 | [Django Custom User](Django Custom User.md)  |
+
 
 ## Prework Links:
 
