@@ -29,7 +29,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class27 | [Django Models](Django Models.md)  |
 | Class28 | [Django CRUD and Forms](Django CRUD and Forms.md)  |
 | Class29 | [Django Custom User](Django Custom User.md)  |
-
+| Hash Tables | [Hash Tables](Hash Tables.md)  |
 
 ## Prework Links:
 
