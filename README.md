@@ -31,6 +31,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class29 | [Django Custom User](Django Custom User.md)  |
 | Class30 | [Hash Tables](Hash Tables.md)  |
 | Class31 | [Django REST Framework & Docker](Django REST Framework & Docker.md)  |
+| Class32 | [Permissions & Postgresql](Permissions & Postgresql.md)  |
 
 ## Prework Links:
 
