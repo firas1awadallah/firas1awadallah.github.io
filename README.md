@@ -33,7 +33,7 @@ i created  this repo to i can keep track of my observations and questions from t
 | Class31 | [Django REST Framework & Docker](Django REST Framework & Docker.md)  |
 | Class32 | [Permissions & Postgresql](Permissions & Postgresql.md)  |
 | Class33 | [Authentication & Production Server](Authentication & Production Server.md)  |
-
+| Class34 | [API Deployment](API Deployment.md)  |
 
 ## Prework Links:
 
